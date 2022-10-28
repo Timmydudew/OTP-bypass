@@ -1,6 +1,8 @@
+#|||||||||<||||||○|||||●JT is BACK|||||●○> do not steal code
 import colorama
 import time, sys
 import random
+import os
 import webbrowser
 from colorama import Fore, Style
 Green = Fore.GREEN
@@ -29,7 +31,7 @@ def start()
      print("logged in")
      time.sleep(2)
      print("if you have any problems check my github")
-     webbrowser.open("https://github.com/Timmydudew")
+     os.system("python3 about.py")
   else:
      print("There was an error")
      start()
