@@ -47,7 +47,7 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=OTP+Bypass
 > pkg install git -y
 > git clone https://github.com/Timmydudew/OTP-bypass
 > cd OTP-bypass
-> python3 main.py
+> python3 otp.py
 ```
 </details>
 
